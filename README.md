@@ -2,5 +2,5 @@
 
 #### Projects
 <ol>
-  <li>Cancer Prediction</li>
+  <li>Cancer Prediction using cnn</li>
 </ol>
