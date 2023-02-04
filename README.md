@@ -1,6 +1,6 @@
 ## JupyterProjects
 
 <ol>
-  <li><a href="/tree/master/notebooks/cancer-prediction-using-cnn">Cancer Prediction using cnn</a></li>
-  <li><a href="/tree/master/notebooks/image-classification-svm">SVM Image Classification</a></li>
+  <li><a href="/notebooks/cancer-prediction-using-cnn/cnn-for-skin-cancer-detection.ipynb">Cancer Prediction using cnn</a></li>
+  <li><a href="/notebooks/image-classification-svm/Classification.ipynb">SVM Image Classification</a></li>
 </ol>
