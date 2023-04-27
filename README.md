@@ -6,4 +6,5 @@
   <li><a href="/notebooks/ML-Project/FeaureExtract_ResNet50.ipynb">Image Feature Extraction Using ResNet50</a></li>
   <li><a href="/notebooks/ML-Project/FeatureExtract_CV2.ipynb">Image Feature Extraction Using OpenCV</a></li>
   <li><a href="notebooks/cancer-predcition-using-pytorch/Cancer_Prediction_CNN_PyTorch.ipynb">Cancer Prediction Using CNN with PyTorch</a></li>
+  <li><a href="notebooks/ML-Project/plant-disease-classification-resnet-99-2.ipynb"> Plant Disease Classification Using ResNet99</a></li>
 </ol>
